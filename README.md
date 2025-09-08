@@ -1,4 +1,4 @@
-# Hey, I'm goatvisuals! 🎮 ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![ExtendScript](https://img.shields.io/badge/-ExtendScript-lightgrey) ![C#](https://img.shields.io/badge/-C%23-purple) ![Python](https://img.shields.io/badge/-Python-green)
+# Hey, I'm Goat! 🎮 ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![ExtendScript](https://img.shields.io/badge/-ExtendScript-lightgrey) ![C#](https://img.shields.io/badge/-C%23-purple) ![Python](https://img.shields.io/badge/-Python-green)
 
 Casual linux tinkerer (Arch, Nvidia, Neovim, Plasma btw)
 
