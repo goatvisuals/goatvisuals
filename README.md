@@ -6,9 +6,13 @@
 
 <br>
 
-## 🚀 Mastermind behind
+## Projects
 #### ✅ [Auto-Big-Picture](https://github.com/goatvisuals/auto-big-picture)
 Automatically launch/close Steam big picture mode when a controller is connected or disconnected on linux.
+
+
+#### 💡 [Bluetooth-Population-Surveillance-System](https://github.com/goatvisuals/bluetooth-population-surveillance-system)
+Theoretical concept into using BLE combined with CCTV for mass population tracking
 
 
 #### ❌ Nugghub
