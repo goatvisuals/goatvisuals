@@ -12,7 +12,7 @@ Automatically launch/close Steam big picture mode when a controller is connected
 
 
 #### 💡 [Bluetooth-Population-Surveillance-System](https://github.com/goatvisuals/bluetooth-population-surveillance-system)
-Theoretical concept into using BLE combined with CCTV for mass population tracking
+Theoretical concept for using BLE combined with CCTV for mass population tracking
 
 
 #### ❌ Nugghub
