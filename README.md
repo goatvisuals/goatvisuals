@@ -7,7 +7,7 @@
 Automatically launch/close Steam big picture mode when a controller is connected or disconnected on linux.
 
 
-#### 💡 [Bluetooth-Population-Surveillance-System](https://github.com/goatvisuals/bluetooth-population-surveillance-system)
+#### 💡 [Bluetooth-Population-Surveillance-System](https://gist.github.com/goatvisuals/476b352c672923daea12faf0001c230d)
 Theoretical concept for using BLE combined with CCTV for mass population tracking
 
 
