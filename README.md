@@ -11,8 +11,8 @@ Automatically launch/close Steam big picture mode when a controller is connected
 Theoretical concept for using BLE combined with CCTV for mass population tracking
 
 
-#### ❌ Nugghub
-Parody of an adult content website but with a twist... McNuggets. Taken down for legal reasons.
+#### ✅ [Nuggshub](https://nuggshub.com/)
+Parody of an adult content website but with a twist... chicken nuggets
 
 
 #### ❌ Cubicle
